@@ -1,3 +1,13 @@
+## Details
+```
+Frontend: Vue JS with Vuetify
+Backend: Laravel API
+Backend Hosting: AWS EC2 (apache2 with phpmyadmin)
+Database: MySQL
+
+```
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
